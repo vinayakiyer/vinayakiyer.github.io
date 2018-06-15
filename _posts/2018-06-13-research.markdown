@@ -1,0 +1,27 @@
+---
+title:  "Research"
+categories: [jekyll]
+tags: [jekyll]
+---
+
+<p>My primary fields are Macroeconomics and International Finance. My secondary field is  International Trade.
+</p>
+
+<h4 id="job-market-paper">Job Market Paper</h4>
+<ul>
+  <li>“Clustered Sovereign Default”
+<br />(<a href="{{ site.baseurl }}/files/JobMarketPaper.pdf" target="_blank"><em>paper</em></a>)</li>
+</ul>
+<details><summary>Abstract</summary>--FILL IN--</details>
+
+<h4 id="working-papers">Working Papers</h4>
+<ul>
+  <li>"Credit Constrained Households in Emerging Markets and their Effect on Consumption Volatility”
+<br />(<a href=".{{ site.baseurl }}/files/JobMarketPaper.pdf" target="_blank"><em>paper</em></a>)</li>
+</ul>
+<details><summary>Abstract</summary>--FILL IN--</details>
+<ul>
+  <li>“Creditor Rights During a Financial Crisis", (with Sudip Gupta and Krishnamurthy Subramanian)
+<br />(<a href="{{ site.baseurl }}/files/JobMarketPaper.pdf" target="_blank"><em>paper</em></a>)</li>
+</ul>
+<details><summary>Abstract</summary>--FILL IN--</details>
