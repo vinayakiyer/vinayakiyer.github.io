@@ -5,21 +5,18 @@ tags: [jekyll]
 ---
 <h3 id="columbia-university"><b>Columbia University</b></h3>
 <p>I served as an instructor for the following course -
-<br />(<a href="" target="_blank">Course evaluations</a>)</p>
-
-
+# <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 <ul>
   <li>International Trade (Undergraduate) &middot; <em>Summer 2016</em></li>
 </ul>
 <p>I served as a teaching assistant for the following courses -
-<br />(<a href="" target="_blank">Course evaluations</a>)</p>
-
+# <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 <ul>
-  <li>Advanced Macroeconomics (Masters) &middot; <em>Prof. Irasema Alonso &middot; Summer 2016</em></li>
-  <li>Macroeconomic Analysis II (Masters) &middot; <em>Prof. Irasema Alonso &middot; Spring 2017 </em></li>
-  <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Irasema Alonso &middot; Fall 2017, Fall 2015</em></li>
-  <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Martin Uribe &middot; Spring 2016</em></li>
-  <li>Economics of Money and Banking (Undergraduate) &middot; <em>Prof. Perry Mehrling &middot; Fall 2016</em></li>
   <li>The Global Economy (Undergraduate) &middot; <em>Prof. Ronald Miller &middot; Spring 2018 </em></li>
+  <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Irasema Alonso &middot; Fall 2017, Fall 2015</em></li>
+  <li>Macroeconomic Analysis II (Masters) &middot; <em>Prof. Irasema Alonso &middot; Spring 2017 </em></li>
+  <li>Economics of Money and Banking (Undergraduate) &middot; <em>Prof. Perry Mehrling &middot; Fall 2016</em></li>
+  <li>Advanced Macroeconomics (Masters) &middot; <em>Prof. Irasema Alonso &middot; Summer 2016</em></li>
+  <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Martin Uribe &middot; Spring 2016</em></li>
   <li>Principles of Economics (Undergraduate) &middot; <em>Prof. Sunil Gulati &middot; Spring 2015, Fall 2014 </em></li>
 </ul>
