@@ -5,12 +5,12 @@ tags: [jekyll]
 ---
 <h3 id="columbia-university"><b>Columbia University</b></h3>
 <p>I served as an instructor for the following course -
-# <br />(<a href="" target="_blank">Course evaluations</a>)</p>
+[//]: <> ( <br />(<a href="" target="_blank">Course evaluations</a>)</p>)
 <ul>
   <li>International Trade (Undergraduate) &middot; <em>Summer 2016</em></li>
 </ul>
 <p>I served as a teaching assistant for the following courses -
-# <br />(<a href="" target="_blank">Course evaluations</a>)</p>
+[//]: <> ( <br />(<a href="" target="_blank">Course evaluations</a>)</p>)
 <ul>
   <li>The Global Economy (Undergraduate) &middot; <em>Prof. Ronald Miller &middot; Spring 2018 </em></li>
   <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Irasema Alonso &middot; Fall 2017, Fall 2015</em></li>
