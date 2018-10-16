@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Macroeconomics and International Finance. My secondary field is  International Trade.
+<p>My primary fields are Macroeconomics, International Macroeconomics, and International Finance. My secondary field is  International Trade.
 </p>
 
 <h3 id="job-market-paper">Job Market Paper</h3>
