@@ -5,4 +5,7 @@ tags: [jekyll]
 ---
 I am a PhD candidate in economics department at Columbia University. My research interests include International Macroeconomics, Emerging Market Business Cycles and Sovereign Defaults. Apart from doing research, I like running marathons and travel photography.
 
-I will be available for interviews at the 2019 ASSA meetings in Atlanta. 
+<!--I will be available for interviews at the 2019 ASSA meetings in Atlanta. -->
+I will be available for interviews at:
+* EEA Job Market Meeting (EEA), Naples, Italy, 6-7 Dec 2018
+* Allied Social Sciences Association (ASSA) Meeting, Atlanta, USA, 4-6 Jan 2019
