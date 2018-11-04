@@ -58,13 +58,10 @@ pre.highlight code,
   border-radius:100%;
 }
 
-details > summary {
-  padding: 2px 6px;
-  width: 10em;
-  border: 3px solid #000;
-  list-style: none;
+summary:hover {
+    cursor: pointer;
+    color: #fff200;
 }
-
 details summary::-webkit-details-marker {
   background: red;
   color: #fff;
