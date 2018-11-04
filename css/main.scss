@@ -58,16 +58,16 @@ pre.highlight code,
   border-radius:100%;
 }
 
-.details summary::-webkit-details-marker {
+details summary::-webkit-details-marker {
   background: red;
   color: #fff;
   font-size: 500%;
 }
 
-.summary::-webkit-details-marker {
+summary::-webkit-details-marker {
   display: none
 }
-.summary:after {
+summary:after {
   background: red; 
   border-radius: 5px; 
   content: "+"; 
@@ -81,6 +81,6 @@ pre.highlight code,
   width: 20px;
 }
 
-.details[open] summary:after {
+details[open] summary:after {
   content: "-";
 }
