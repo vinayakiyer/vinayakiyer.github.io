@@ -58,6 +58,11 @@ pre.highlight code,
   border-radius:100%;
 }
 
+details {
+    border-radius: 3px;
+    background: #EEE;
+}
+
 details summary::-webkit-details-marker {
   background: red;
   color: #fff;
