@@ -35,6 +35,6 @@ tags: [jekyll]
 
 <h3 id="work-in-progress">Work in Progress</h3>
 <ul>
-  <h4><b>Global Shocks, Rollover Crises, and Spillover Effects of Foreign Reserves</b>, (with Seunghoon Na)</h4>
+  <h4><b>A Robust Exchange Rate Policy under Near-Rational UIP Breakdown</b>, (with Seunghoon Na)</h4>
 </ul>
 
