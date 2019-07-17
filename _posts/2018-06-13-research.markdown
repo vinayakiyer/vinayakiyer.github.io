@@ -38,3 +38,6 @@ tags: [jekyll]
   <h4><b>A Robust Exchange Rate Policy under Near-Rational UIP Breakdown</b>, (with Yang Jiao and Seunghoon Na)</h4>
 </ul>
 
+<!---  Why some countries load more on global factors. Some graphs to correlate alphas with economic fundamentals -->
+<!---  When UIP is violated, it is violated either because euler equation is violated or international risk sharing condition is violated. It is interesting to check which contribute ore to violation of UIP. This can be tested in data by looking at the effect on violations in NKPC and DIS. And then see if it is coming from euler equation or international risk sharing condition -->
+<!---  Capital controls -->
