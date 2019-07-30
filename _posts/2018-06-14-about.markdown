@@ -3,5 +3,11 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a PhD candidate in economics department at Columbia University. My research interests include International Macroeconomics, Emerging Market Business Cycles and Sovereign Defaults. Apart from doing research, I like running marathons and travel photography.
+I am an Assistant Professor at the Business School of Instituto Tecnológico Autónomo de México (ITAM).
+
+I am primarily a macroeconomist who works in international macroeconomics, monetary economics and emerging market business cycles.
+
+Before joining ITAM, I finished my PhD in economics from Columbia University.
+
+Apart from doing research, I like running marathons and travel photography.
 
