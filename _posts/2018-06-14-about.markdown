@@ -3,11 +3,9 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am an Assistant Professor at the Business School of Instituto Tecnológico Autónomo de México (ITAM).
+I am a 4th year PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Urban Economics, Industrial Organization and Applied Micro
 
-I am primarily a macroeconomist who works in international macroeconomics, monetary economics and emerging market business cycles.
+Before joining Columbia, I completed my Masters from Delhi School of Economics.
 
-Before joining ITAM, I finished my PhD in economics from Columbia University.
-
-Apart from doing research, I like running marathons and travel photography.
+Apart from research, I like playing chess and squash.
 

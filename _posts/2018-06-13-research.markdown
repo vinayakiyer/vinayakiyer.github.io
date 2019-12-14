@@ -4,45 +4,27 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Macroeconomics, International Macroeconomics, and International Finance. My secondary field is  International Trade.
+<p>My primary fields are Urban Economics, Industrial Organization and Applied Micro.
 </p>
 
+<!---
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
-  <h4><b>Clustered Sovereign Default</b>
-(<a href="https://s-anurag.github.io/files/AnuragSingh_JMP.pdf" target="_blank"><em>Draft</em></a>)(<a href="https://s-anurag.github.io/files/JMP_Slides.pdf" target="_blank"><em>Slides</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Clustered sovereign defaults are a recurring phenomenon. In order to understand the nature of shocks and the mechanism through which these shocks lead countries to clustered defaults, the paper starts with a joint estimation of the structural parameters driving the output process of 24 defaulting countries and a process for the world interest rate. The postulated output process includes transitory and permanent global components as well as transitory and permanent country-specific components. The paper then builds a sovereign default model augmented with financial frictions at the firm level. In spite of the fact that the shocks are estimated independently of the model or of default data, once fed into the model, they reproduce the clustered default of 1982, providing a joint validation of the model and the estimated driving forces. The model predicts that it is the global shocks to the transitory component of output that are most important in leading countries to default in clusters. Contrary to what is commonly believed, the Volcker interest-rate hike was not a determinant factor of the 1982 developing country debt crisis.</font></p></details>
-
+  <h4><b>Title of Paper</b>
+(<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
+<details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
-
+-->
 <h3 id="working-papers">Working Papers</h3>
 <ul>
-  <h4><b>Credit Constrained Households in Emerging Markets and their Effect on Consumption Volatility</b>
+  <h4><b>Access-to-Demand Frictions and Firm Growth : Experimental Evidence from Liberia</b>, (with Jonas Hjort and Golvine de Rochambeau)
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)--></h4>
 <details><summary>Abstract:</summary><p><font size="2">In order to explain high consumption volatility and the ratio of consumption to output volatility, the key financial friction that has been considered in the literature is the interest rate shock to the economy. This paper builds a quantitative model by including hand to mouth consumers, which along with interest rate shock acts as the second financial friction. With the data from 18 rich, 25 poor and 32 emerging countries, the paper uses Bayesian estimation method to estimate the parameters of the RBC model with and without hand to mouth consumers for each country and looks at the importance of having hand to mouth consumers in the model. The paper finds that having hand-to-mouth consumers in the model increases the ratio of consumption to output volatility. The paper also finds that, on an average, the contribution of non-stationary shocks towards volatility of TFP is 34% for rich countries, 46% for emerging countries, and 50% for poor countries. The results are in contrast with previous research where some predicted TFP growth is driven primarily by non-stationary productivity shocks while others suggested a negligible role of non-stationary productivity shocks.</font></p></details>
 
 </ul>
-
-<ul>
-  <h4><b>Creditor Rights During a Financial Crisis</b>, (with Sudip Gupta and Krishnamurthy Subramanian)</h4>
-<!--- (<a href="{{ site.baseurl }}/files/Paper3.pdf" target="_blank"><em>Draft</em></a>) -->
-<details><summary>Abstract:</summary><p><font size="2">Optimal debt contracts seek to balance ex-post control rights allocated to creditors against borrowers' need to secure financing ex-ante. Post a financial crisis that is accompanied by a recession, the likelihood of ex-post adverse outcomes increases while ex-ante financing opportunities dry up. What is the effect of this interplay on the control rights assumed by creditors during a financial crisis? We study this question by comparing covenants in bank loans issued before and after the financial crisis of 2008. We find that post the crisis: (i) covenants requiring provision of liquidity and those restricting leverage in the capital structure were more likely; (ii) covenants restricting capital expenditures and those related to borrower performance were less likely; and (iii) using difference-in-difference tests, we find that these differences were disproportionately more pronounced for loans taken for financial restructuring but not for other loans. We argue that post the financial crisis, loan contracts responded primarily to heightened risks of debt-equity conflicts stemming from asset substitution, illiquidity transformation and debt overhang. Finally, these differences in covenants have real effects by affecting the capital expenditures of firms. To our knowledge, ours is the first study to examine the effects of a financial crisis on creditor rights outside bankruptcy. Our study highlights another channel -- creditor rights outside bankruptcy -- through which the real effects of a financial crisis permeate through the economy.</font></p></details>
-
-
-</ul>
-
-
-
+<!--
 <h3 id="work-in-progress">Work in Progress</h3>
 <ul>
-  <h4><b>A Robust Exchange Rate Policy under Near-Rational UIP Breakdown</b>, (with Yang Jiao and Seunghoon Na)</h4>
-</ul>
-
-<ul>
-  <h4><b>Solving the Deflation Problem: A Microfounded Neo-Fisher Effect</b>, (with Haaris Mateen)</h4>
-</ul>
-
-
-<!---  Why some countries load more on global factors. Some graphs to correlate alphas with economic fundamentals -->
-<!---  When UIP is violated, it is violated either because euler equation is violated or international risk sharing condition is violated. It is interesting to check which contribute ore to violation of UIP. This can be tested in data by looking at the effect on violations in NKPC and DIS. And then see if it is coming from euler equation or international risk sharing condition -->
-<!---  Capital controls -->
+  <h4><b>What drives efficiency in Ridesharing Markets?</b>, (with Motaz al-Chanati)</h4>
+</ul> 
+-->
