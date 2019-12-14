@@ -13,8 +13,16 @@
 }
 .panel-cover:before {
     content: ' ';
+    display: block;
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
     opacity: 0.9;
     background-image: url({{ site.baseurl }}/images/cover-c.jpg);
+    background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-position: 50% 0;
     -ms-background-size: cover;
