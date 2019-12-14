@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Urban Economics, Industrial Organization and Applied Micro.
+<p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
 </p>
 
 <!---
