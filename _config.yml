@@ -1,14 +1,14 @@
 # Site settings
-title: Anurag Singh
-description: Assistant Professor &middot; Business School &middot; Instituto Tecnológico Autónomo de México (ITAM)
-url: 'https:/s-anurag.github.io/'
+title: Vinayak Iyer
+description: 4th Year PhD Candidate, Department of Economics, Columbia University
+url: 'https:/vinayakiyer.github.io/'
 baseurl: ""
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Anurag Singh'
-  email: anurag.singh@columbia.edu
+  name: 'Vinayak Iyer'
+  email: vi2137@columbia.edu
 
 defaults:
   -
