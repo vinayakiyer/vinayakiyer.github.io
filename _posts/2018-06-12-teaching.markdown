@@ -9,18 +9,15 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
-  <li>International Trade (Undergraduate) &middot; <em>Summer 2016</em></li>
+  <li> MA Math Camp  &middot; <em>Summer 2019</em> (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">(Course Material)</a>) </li>
 </ul>
 <p>I served as a teaching assistant for the following courses -
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
-  <li>The Global Economy (Undergraduate) &middot; <em>Prof. Ronald Miller &middot; Spring 2018 </em></li>
-  <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Irasema Alonso &middot; Fall 2017, Fall 2015</em></li>
-  <li>Macroeconomic Analysis II (Masters) &middot; <em>Prof. Irasema Alonso &middot; Spring 2017 </em></li>
-  <li>Economics of Money and Banking (Undergraduate) &middot; <em>Prof. Perry Mehrling &middot; Fall 2016</em></li>
-  <li>Advanced Macroeconomics (Masters) &middot; <em>Prof. Irasema Alonso &middot; Summer 2016</em></li>
-  <li>Intermediate Macroeconomics (Undergraduate) &middot; <em>Prof. Martin Uribe &middot; Spring 2016</em></li>
-  <li>Principles of Economics (Undergraduate) &middot; <em>Prof. Sunil Gulati &middot; Spring 2015, Fall 2014 </em></li>
+  <li>Microeconomic Theory (Masters) &middot; <em>Prof. Navin Kartik &middot; Spring 2019 </em></li>
+  <li>Math Method for Economists (Masters) &middot; <em>Prof. Xiaosheng Mu and Prof. Steve Olley &middot; Fall 2018, Fall 2019</em></li>
+  <li>Principles of Economics (Undergraduate) &middot; <em>Prof. Wouter Vergote &middot; Fall 2017, Spring 2018 </em></li>
+
 </ul>
