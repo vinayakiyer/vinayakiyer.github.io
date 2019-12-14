@@ -9,7 +9,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
-  <li> MA Math Camp  &middot; <em>Summer 2019</em> (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">(Course Material)</a>) </li>
+  <li> MA Math Camp  &middot; <em>Summer 2019</em> (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">Course Material</a>) </li>
 </ul>
 <p>I served as a teaching assistant for the following courses -
 <!---
