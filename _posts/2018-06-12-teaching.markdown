@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h4 id="columbia-university"><strong>Columbia University</strong></h4>
-<p>I have been a teaching or an instructor for the following courses -
+<p>I have been a teaching assistant or an instructor for the following courses -
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
