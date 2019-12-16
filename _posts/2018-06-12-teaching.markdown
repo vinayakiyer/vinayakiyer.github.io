@@ -4,19 +4,13 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h4 id="columbia-university"><strong>Columbia University</strong></h4>
-<p>I was an instructor for the following course -
-<!---
-<br />(<a href="" target="_blank">Course evaluations</a>)</p>
--->
-<ul>
-  <li> MA Math Camp  &middot; <em>2019</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">Course Material</a>) </li>
-</ul>
-<p>I was a teaching assistant for the following courses -
+<p>I have been a teaching or an instructor for the following courses -
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <h5 id="masters"><strong>Masters</strong></h5>
 <ul>
+ <li> MA Math Camp (Instructor)  &middot; <em>2019</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">Course Material</a>) </li>
   <li>Microeconomic Theory &middot; <em>2019</em> -- (Evaluations)</li>
   <li>Math Method for Economists &middot;  <em>2018 , 2019</em> -- (Evaluations)</li>
 </ul>
