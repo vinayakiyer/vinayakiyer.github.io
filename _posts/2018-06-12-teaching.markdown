@@ -10,7 +10,7 @@ tags: [jekyll]
 -->
 <h5 id="masters"><strong>Masters</strong></h5>
 <ul>
- <li> MA Math Camp (Instructor)  &middot; <em>2019</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">Course Material</a>) </li>
+ <li> MA Math Camp (Instructor)  &middot; <em>2019 , 2020</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020" target="_blank">Course Material</a>) </li>
   <li>Microeconomic Theory &middot; <em>2019</em> -- (<a href="{{ site.baseurl }}/files/micro2019spring.pdf" target="_blank">Evaluation</a>)</li>
   <li>Math Method for Economists &middot;  <em>2018 , 2019</em> -- (<a href="{{ site.baseurl }}/files/math2018fall-merged.pdf" target="_blank">Evaluation (2018)</a>, <a href="{{ site.baseurl }}/files/math2019fall.pdf" target="_blank">Evaluation (2019)</a>)</li>
 </ul>
