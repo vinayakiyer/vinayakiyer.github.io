@@ -19,7 +19,7 @@ tags: [jekyll]
 <ul>
   <p><b><font size="3"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" target="_blank">Informational Barriers to Accessing Demand: Experimental Evidence from Liberian Firms</a></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" target="_blank"><em>Golvine de Rochambeau</em></a>)</font>
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
-<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
+<!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
 growth-conducive markets. We hypothesize that overlooked heterogeneity in marketing
 ability distorts market access. To investigate, we gave a random subset of Liberian
 firms vouchers for a week-long program that teaches how to sell to corporations, governments,
@@ -27,7 +27,9 @@ and other large buyers. Firms that participate win about three times as
 many contracts, but only firms with access to the Internet benefit. We use a simple
 model and variation in online and offline demand to show evidence that this is because
 ICT dampens traditional information frictions, but not marketing barriers.</font></p></details>
-
+-->
+</ul> 
+    
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
 <ul>
   <h5><b>What drives efficiency in Ridesharing markets?</b>, (with <em>Motaz al-Chanati</em>)</h5>
