@@ -17,7 +17,7 @@ tags: [jekyll]
 -->
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
-  <p><b><font size="3"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" target="_blank">Informational Barriers to Accessing Demand: Experimental Evidence from Liberian Firms</a></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" target="_blank"><em>Golvine de Rochambeau</em></a>)</font>
+  <p><b><font size="3"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" target="_blank">Informational Barriers to Accessing Demand: Experimental Evidence from Liberian Firms</a></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" target="_blank"><em>Golvine de Rochambeau</em></a>)</font></ul> 
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
 <!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
 growth-conducive markets. We hypothesize that overlooked heterogeneity in marketing
@@ -28,7 +28,7 @@ many contracts, but only firms with access to the Internet benefit. We use a sim
 model and variation in online and offline demand to show evidence that this is because
 ICT dampens traditional information frictions, but not marketing barriers.</font></p></details>
 -->
-</ul> 
+
     
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
 <ul>
