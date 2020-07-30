@@ -33,10 +33,10 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
     
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
 <ul>
-  <h5><b>What drives efficiency in Ridesharing markets?</b>, (with <em>Motaz al-Chanati</em>)</h5>
+  <p><b><font size="3">What drives efficiency in Ridesharing markets?, (with <em>Motaz al-Chanati</em>)</font></b></p>
 </ul> 
 
 <ul>
-  <h5><b>Transparency and Polarization of Political Speech : Evidence from Canada</b>, (with <em>William Labasi Samartino</em>)</h5>
+  <p><b><font size="3">Transparency and Polarization of Political Speech : Evidence from Canada, (with <em>William Labasi Samartino</em>)</font></b></p>
 </ul> 
 
