@@ -17,7 +17,7 @@ tags: [jekyll]
 -->
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
-  <p><b><font size="3"><span style = "color:cornflowerblue"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></span></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" target="_blank"><em>Golvine de Rochambeau</em></a>)</font></b></p></ul>
+  <p><b><font size="3"><span style="color:#6495ED"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></span></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" target="_blank"><em>Golvine de Rochambeau</em></a>)</font></b></p></ul>
 
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
 <!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
