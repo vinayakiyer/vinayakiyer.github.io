@@ -3,11 +3,7 @@ title:  "Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
-```{css}
-a {
-  color: blue
-}
-```
+
 <p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
 </p>
 
