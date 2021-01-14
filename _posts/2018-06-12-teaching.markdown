@@ -12,7 +12,8 @@ tags: [jekyll]
 <ul>
  <li> MA Math Camp (Instructor)  &middot; <em>2019 , 2020</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020" style="color:#2980b9;" target="_blank">Course Material</a>) </li>
   <li>Microeconomic Theory &middot; <em>2019</em> -- (<a href="{{ site.baseurl }}/files/micro2019spring.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)</li>
-  <li>Math Method for Economists &middot;  <em>2018 , 2019</em> -- (<a href="{{ site.baseurl }}/files/math2018fall-merged.pdf" style="color:#2980b9;" target="_blank">Evaluation (2018)</a>, <a href="{{ site.baseurl }}/files/math2019fall.pdf" style="color:#2980b9;" target="_blank">Evaluation (2019)</a>)</li>
+  <li>Math Method for Economists &middot;  <em>2018 , 2019, 2020</em> -- (<a href="{{ site.baseurl }}/files/math2018fall-merged.pdf" style="color:#2980b9;" target="_blank">Evaluation (2018)</a>, <a href="{{ site.baseurl }}/files/math2019fall.pdf" style="color:#2980b9;" target="_blank">Evaluation (2019)</a>, 
+   <a href="{{ site.baseurl }}/files/math2020fall.pdf" style="color:#2980b9;" target="_blank">Evaluation (2020)</a>)</li>
 </ul>
 
 <h5 id="undergrad"><strong>Undergraduate</strong></h5>
