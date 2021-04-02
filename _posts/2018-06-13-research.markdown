@@ -36,7 +36,9 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
 <ul>
   <p><b><font size="3">What drives efficiency in Ridesharing markets?, (with <em>Motaz al-Chanati</em>)</font></b></p>
 </ul> 
-
+<ul>
+  <p><b><font size="3">Valuation of Public Transit and Landlord Market Power, (with <em>Lucas Husted</em>)</font></b></p>
+</ul> 
 <ul>
   <p><b><font size="3">Transparency and Polarization of Political Speech : Evidence from Canada, (with <em>William Labasi Samartino</em>)</font></b></p>
 </ul> 
