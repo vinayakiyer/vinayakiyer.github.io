@@ -1,8 +1,10 @@
 ---
-title:  "Teaching"
+title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
+<h2 id="columbia-university"><strong>Teaching</strong></h2>
+
 <h4 id="columbia-university"><strong>Columbia University</strong></h4>
 <p>I have been a teaching assistant or an instructor for the following courses -
 <!---
