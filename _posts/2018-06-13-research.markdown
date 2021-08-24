@@ -4,16 +4,20 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+<h2 id="working-papers"><strong>Research</strong></h2>
+
 <p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
 </p>
 
 
+<!--
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
   <h4><b>What drives efficiency in Ridesharing markets?</b>
 (<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
+-->
 
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
