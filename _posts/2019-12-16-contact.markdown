@@ -3,6 +3,8 @@ title:  "Contact"
 categories: [jekyll]
 tags: [jekyll]
 ---
+<h2 id="columbia-university"><strong>Contact</strong></h2>
+
 Vinayak Iyer
 
 <strong>Mailing Address:</strong><br/> 420 W 118th Street, Department of Economics, Columbia University, NY - 10027  
