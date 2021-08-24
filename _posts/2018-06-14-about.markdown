@@ -1,11 +1,11 @@
 ---
-title:  "About"
+title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a 5th year PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization.
+I am a 6th year PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization.
 
-Before joining Columbia, I completed my Masters from Delhi School of Economics in 2015.
+Before joining Columbia, I completed my Masters from Delhi School of Economics in 2015. Apart from research, I like playing chess and squash. 
 
-Apart from research, I like playing chess and squash.
+For more information, please contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">vi2137@columbia.edu</font></b></a>
 
