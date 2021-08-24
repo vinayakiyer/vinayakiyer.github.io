@@ -1,5 +1,5 @@
 ---
-title:  "Research"
+title:  <font size="2">"Research"</font>
 categories: [jekyll]
 tags: [jekyll]
 ---
