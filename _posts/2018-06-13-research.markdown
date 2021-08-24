@@ -1,5 +1,5 @@
 ---
-title:  <font size="4"><strong>Research</strong></font>
+title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
@@ -7,14 +7,14 @@ tags: [jekyll]
 <p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
 </p>
 
-<!---
+
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
-  <h4><b>Title of Paper</b>
+  <h4><b>What drives efficiency in Ridesharing markets?</b>
 (<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
--->
+
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
   <p><b><font size="3"><span style="color:#6495ed"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" style="color:#2980b9;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></span></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" style="color:#1a5276;" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" style="color:#1a5276;" target="_blank"><em>Golvine de Rochambeau</em></a>)</font></b>
