@@ -20,7 +20,7 @@ tags: [jekyll]
 -->
 <h4 id="working-papers"><strong>Job Market Paper</strong></h4>
 <ul>
-  <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">What Drives Efficiency in Ridesharing Markets? : Evidence from Austin, Texas</a></strong></span></font> <font size="3">(with <a href="https://motazac.github.io/" style="color:#cc0e0e;" target="_blank"><em>Motaz Al-Chanati</em></a>) (Draft Available Upon Request) </font></b></p></ul>
+  <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">What Drives Efficiency in Ridesharing Markets? : Evidence from Austin, Texas</a></strong></span></font> <font size="3">(with <a href="https://motazac.github.io/" style="color:#cc0e0e;" target="_blank"><em>Motaz Al-Chanati</em></a>) (Draft Coming Soon) </font></b></p></ul>
 
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
