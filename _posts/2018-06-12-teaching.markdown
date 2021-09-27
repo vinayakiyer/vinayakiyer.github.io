@@ -22,3 +22,10 @@ tags: [jekyll]
 <ul>
   <li>Principles of Economics  &middot; <em>2017 , 2018</em> -- (<a href="{{ site.baseurl }}/files/principles2017.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (2017)</a> , <a href="{{ site.baseurl }}/files/principles2018.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (2018)</a>)</li>
 </ul>
+
+<h5 id="columbia-university"><strong>Teaching Awards</strong></h5>
+<ul>
+ <li> Wueller Award for Best T.A. for Masters courses (2020) </li>
+ <li> Wueller Award for Best T.A. for Masters courses (2019) </li>
+ <li> Wueller Award for Best T.A. for Principles (Runner Up) (2018) </li>
+</ul>
