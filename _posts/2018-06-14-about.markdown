@@ -7,5 +7,5 @@ I am a 6th year PhD Candidate in the Department of Economics at Columbia Univers
 
 Before joining Columbia, I completed my Masters from Delhi School of Economics in 2015. Apart from research, I like playing chess and squash. 
 
-My CV can be found <a href="https://vinayakiyer.github.io/files/CV_Vinayak.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">here</font></b></a>. For more information, please contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">vi2137@columbia.edu</font></b></a>
+For more information, please see my <a href="https://vinayakiyer.github.io/files/CV_Vinayak.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">vi2137@columbia.edu</font></b></a>
 
