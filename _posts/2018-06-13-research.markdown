@@ -26,7 +26,7 @@ tags: [jekyll]
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
   <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_091121_everything.pdf" style="color:#cc0e0e;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></strong></span></font> <font size="2">with <a href="https://sites.google.com/site/jonashjort/" style="color:#cc0e0e;" target="_blank">Jonas Hjort</a> and <a href="https://golvine.com/" style="color:#cc0e0e;" target="_blank">Golvine de Rochambeau</a></font></b>
-  <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font>  |  <font size="2"><a style="color:#17202a;">Coverage :</a></font><font size="2"><a href="https://voxeu.org/article/informational-barriers-market-access" style="color:#cc0e0e;">VoXEU</a></font></p></ul>
+  <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font> &ensp;| &ensp;<font size="2"><a style="color:#17202a;">Coverage :</a></font><font size="2"><a href="https://voxeu.org/article/informational-barriers-market-access" style="color:#cc0e0e;">VoXEU</a></font></p></ul>
 
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
 <!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
