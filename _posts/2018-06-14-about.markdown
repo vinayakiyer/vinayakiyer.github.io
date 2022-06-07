@@ -3,9 +3,9 @@ title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization where I use both structural estimation and reduced form methods. 
+I received my PhD in Economics from Columbia University in May 2022. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization where I use both structural estimation and reduced form methods. 
 
-Before joining Columbia, I completed my Masters from Delhi School of Economics in 2015. Apart from research, I like playing chess and squash. 
+Before Columbia, I completed my Masters from Delhi School of Economics in 2015. Apart from research, I like playing chess and squash. 
 
 My Job Market Paper can be found <a href="https://vinayakiyer.github.io/files/Iyer_JMP.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">here</font></b></a>.
 
