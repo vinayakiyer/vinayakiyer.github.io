@@ -3,7 +3,7 @@ title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
-Hi! I will be joining Uber as an Applied Scientist II. I received my PhD in Economics from Columbia University in May 2022. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization where I use both structural estimation and reduced form methods. 
+Hi! I am an Applied Scientist/Economist at Uber. I received my PhD in Economics from Columbia University in May 2022. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization where I use both structural estimation and reduced form methods. 
 
 Before Columbia, I completed my Masters from Delhi School of Economics in 2015. In my free time, I like playing chess and squash. 
 
