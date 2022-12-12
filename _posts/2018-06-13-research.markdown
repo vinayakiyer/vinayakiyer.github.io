@@ -43,6 +43,8 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
     
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
 <ul>
+<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">How do Electorally Bulnerable Politicians Allocate Effort? Evidence from Canada</a></strong></span></font> <font size="2"> <a style="color:#cc0e0e;"></a> (Preliminary Draft Available on Request) </font></b></p></ul>
+<ul>
 <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Valuation of Public Transit and Landlord Market Power : Evidence from NYC</a></strong></span></font> <font size="2">with <a href="https://www.lucashusted.com/home" style="color:#cc0e0e;" target="_blank">Lucas Husted</a> (Preliminary Draft Available on Request) </font></b></p></ul>
 <ul>
 <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Transparency and Polarization of Political Speech : Evidence from Canada </a></strong></span></font> <br/> <font size="2">with <a target="_blank">William Labasi Samartino</a> (Preliminary Draft Available on Request) </font></b></p></ul>
