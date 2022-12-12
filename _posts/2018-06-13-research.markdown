@@ -21,7 +21,8 @@ tags: [jekyll]
 <h4 id="working-papers"><strong>Job Market Paper</strong></h4>
 <ul>
   <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/Iyer_JMP.pdf" style="color:#cc0e0e;" target="_blank">What Drives the Efficiency in Ridesharing Markets? Evidence from Austin, Texas</a></strong></span></font> <font size="2">with <a href="https://motazac.github.io/" style="color:#cc0e0e;" target="_blank">Motaz Al-Chanati</a> </font></b>
-  <br/><font size="2"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959363" style="color:#17202a;">SSRN Link</a></font></p></ul>
+  <br/><font size="2"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959363" style="color:#17202a;">SSRN Link</a></font>
+  <br/><font size="3"><a  style="color:#17202a;">R&R @ American Economic Journal:Microeconomics</a></font></p></ul>
 
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
