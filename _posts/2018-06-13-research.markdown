@@ -29,9 +29,9 @@ tags: [jekyll]
 <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/HRIA_april24.pdf" style="color:#cc0e0e;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></strong></span></font> <font size="2">with <a href="https://sites.google.com/site/jonashjort/" style="color:#cc0e0e;" target="_blank">Jonas Hjort</a>, <a href="https://golvine.com/" style="color:#cc0e0e;" target="_blank">Golvine de Rochambeau</a> and <a href="https://se.linkedin.com/in/fei-ao-56565899" style="color:#cc0e0e;" target="_blank">Fei Ao</a></font></b>
   <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font> &ensp;| &ensp;<font size="2"><a style="color:#17202a;">Coverage :</a></font><font size="2"><a href="https://voxeu.org/article/informational-barriers-market-access" style="color:#cc0e0e;">VoXEU</a></font></p>
 
-<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/AlimonyFemaleLaborSupply_VermaIyer2024.pdf" target="_blank"><font size="3" style="color:#C35900">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
+<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/AlimonyFemaleLaborSupply_VermaIyer2024.pdf" target="_blank"><font size="3" style="color:#505050">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
 <font size="3" style="color:#000000;"><span style="font-weight:bold"><b>R&R, Economic Inquiry </b> </span></font><br> 
-<font size="2" style="color:#000000;"> with <a href="https://vinayakiyer.github.io/research/" target="_blank"><font face="Arial" color="#C35900">Vinayak Iyer </font></a></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://vinayakiyer.github.io/research/" target="_blank"><font face="Arial" color="#C35900">Anjali P. Verma </font></a></font><br>
 <font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021 | SEA 2021 </font></p>
     
 </ul>
