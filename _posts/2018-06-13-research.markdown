@@ -22,19 +22,18 @@ tags: [jekyll]
 <ul>
   <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/Iyer_JMP.pdf" style="color:#cc0e0e;" target="_blank">What Drives the Efficiency in Ridesharing Markets? Evidence from Austin, Texas</a></strong></span></font> <font size="2">with <a href="https://motazac.github.io/" style="color:#cc0e0e;" target="_blank">Motaz Al-Chanati</a> </font></b>
   <br/><font size="2"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959363" style="color:#17202a;">SSRN Link</a></font>
-  <br/><font size="3"><a  style="color:#17202a;">R&R @ American Economic Journal:Microeconomics</a></font></p></ul>
+  <br/><font size="2"><a  style="color:#17202a;">R&R @ American Economic Journal:Microeconomics</a></font></p></ul>
 
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
 <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/HRIA_april24.pdf" style="color:#cc0e0e;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></strong></span></font> <font size="2">with <a href="https://sites.google.com/site/jonashjort/" style="color:#cc0e0e;" target="_blank">Jonas Hjort</a>, <a href="https://golvine.com/" style="color:#cc0e0e;" target="_blank">Golvine de Rochambeau</a> and <a href="https://se.linkedin.com/in/fei-ao-56565899" style="color:#cc0e0e;" target="_blank">Fei Ao</a></font></b>
   <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font> &ensp;| &ensp;<font size="2"><a style="color:#17202a;">Coverage :</a></font><font size="2"><a href="https://voxeu.org/article/informational-barriers-market-access" style="color:#cc0e0e;">VoXEU</a></font></p>
-
-<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/AlimonyFemaleLaborSupply_VermaIyer2024.pdf" target="_blank"><font size="3" style="color:#505050;">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
-<font size="3" style="color:#505050;"><span style="font-weight:bold"><b>R&R, Economic Inquiry </b> </span></font><br> 
-<font size="2" style="color:#505050;"> with <a href="https://vinayakiyer.github.io/research/" target="_blank"><font face="Arial" color="#C35900">Anjali P. Verma </font></a></font><br>
-<font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021 | SEA 2021 </font></p>
-    
 </ul>
+
+<ul>
+  <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/AlimonyFemaleLaborSupply_VermaIyer2024.pdf" style="color:#cc0e0e;" target="_blank">Female Labor Supply Response to Alimony: Evidence from Massachusetts</a></strong></span></font> <font size="2">with <a href="https://anjalipverma.github.io/" style="color:#cc0e0e;" target="_blank">Anjali P. Verma</a> </font></b>
+  <br/><font size="2"><a>Presentations: APPAM Seminar Series 2021 | SEA 2021 </a></font>
+  <br/><font size="2"><a  style="color:#17202a;">R&R @ Economic Inquiry</a></font></p></ul>
 
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
 <!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
