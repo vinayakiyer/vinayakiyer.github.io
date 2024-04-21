@@ -31,6 +31,11 @@ tags: [jekyll]
 </ul>
 
 <ul>
+<p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/How do Electorally Vulnerable Politicians Allocate Effort.pdf" style="color:#cc0e0e;" target="_blank">How do Electorally Vulnerable Politicians Allocate Effort? Evidence from Canada</a></strong></span></font><br/>
+<font size="2">with <a href="https://anjalipverma.github.io/" style="color:#cc0e0e;" target="_blank">Anjali P. Verma</a></font></b>
+<br/><font size="2"><a  style="color:#17202a;">Under Review</a></font></p></ul>
+
+<ul>
 <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/AlimonyFemaleLaborSupply_VermaIyer2024.pdf" style="color:#cc0e0e;" target="_blank">Female Labor Supply Response to Alimony: Evidence from Massachusetts</a></strong></span></font><br/>
 <font size="2">with <a href="https://anjalipverma.github.io/" style="color:#cc0e0e;" target="_blank">Anjali P. Verma</a></font></b>
 <br/><font size="2"><a  style="color:#17202a;">R&R @ Economic Inquiry</a></font></p></ul>
@@ -50,13 +55,11 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
     
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
 <ul>
-<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">How do Electorally Vulnerable Politicians Allocate Effort? Evidence from Canada</a></strong></span></font> <font size="2"> <a style="color:#cc0e0e;"></a> (Preliminary Draft Available on Request) </font></b></p></ul>
-<ul>
 <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Valuation of Public Transit and Landlord Market Power : Evidence from NYC</a></strong></span></font> <font size="2">with <a href="https://www.lucashusted.com/home" style="color:#cc0e0e;" target="_blank">Lucas Husted</a> (Preliminary Draft Available on Request) </font></b></p></ul>
 <ul>
 <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Transparency and Polarization of Political Speech : Evidence from Canada </a></strong></span></font> <br/> <font size="2">with <a target="_blank">William Labasi Samartino</a> (Preliminary Draft Available on Request) </font></b></p></ul>
 
 <ul>
-<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">In the Dark : Impact of Streetlight Outages on Crime </a></strong></span></font> <font size="2"> <br/> with <a href="https://econ.uconn.edu/person/michele-baggio/" style="color:#cc0e0e;" target="_blank">Michele Baggio</a>, <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color:#cc0e0e;" target="_blank"> Alberto Chong</a>, <a href="https://nishithprakash.com/" style="color:#cc0e0e;" target="_blank"> Nishith Prakash</a>, <a href="https://anjalipverma.github.io/about/" style="color:#cc0e0e;" target="_blank"> Anjali P. Verma </a> </font></b></p></ul>
+<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">In the Dark : Impact of Streetlight Outages on Crime </a></strong></span></font> <font size="2"> <br/> with <a href="https://econ.uconn.edu/person/michele-baggio/" style="color:#cc0e0e;" target="_blank">Michele Baggio</a> and <a href="https://anjalipverma.github.io/about/" style="color:#cc0e0e;" target="_blank"> Anjali P. Verma </a> </font></b></p></ul>
 
 
